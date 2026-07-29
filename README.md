@@ -160,28 +160,3 @@ I continuously:
 
 As my preparation evolves, the repository evolves with it.
 
----
-
-## Contributing
-
-If you find any mistakes, better explanations, additional interview questions, or improvements, feel free to:
-
-* Open an Issue
-* Suggest changes
-* Submit a Pull Request
-
-Before contributing, please go through the existing markdown files to understand the structure and formatting style followed across the repository.
-
----
-
-## Support the Repository
-
-If this repository helps you in your preparation:
-
-* Consider giving it a ⭐
-* Share it with others preparing for placements
-* Use it as a revision resource
-
-It helps motivate consistent improvements and maintenance.
-
----
